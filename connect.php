@@ -3,7 +3,7 @@
 	$server = "localhost";
 	$username = "yourusename";
 	$password = "yourpassword";
-	$dbname = "yourdbname";
+	$dbname = "speaking";
 
 	// Create connection
 	$mysqli = new mysqli($server, $username, $password, $dbname);
